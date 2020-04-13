@@ -5,18 +5,20 @@
 The tournament organizers (TOs) reserve the right to alter or amend these rules at any time.
 
 ## Registration & requirements
+* The tournament will be taking place online, **Saturday, April 18th, 2020, starting at 6:00 PM sharp**. 
 * Participants must be part of [the Upsilon Pi Epsilon (UPE) Discord server](discord.gg/upefiu) to sign up.
 * Participants must create an account at [Pokemon Showdown.](https://play.pokemonshowdown.com/) 
     * This can be done for free, no email required, by clicking the "Choose name" button in the top right, creating a name, and then going into the top-right settings menu and clicking "Register".  
 * Participants must have created an account at [smash.gg](https://smash.gg).
 * Once these requirements are satisfied, players can sign up at the [tournament registration page.](https://smash.gg/tournament/upe-spring-2020-online-pokemon-showdown-tournament/register)
-* The tournament will be taking place online, **Saturday, April 18th, 2020, starting at 6:00 PM sharp**. 
+* Once players are registered, they should prepare for the tournament. **Check-in will open at 5:15 PM.** Once check-in is open, players have **30 minutes** to check into the tournament, ending at **5:45 PM**. 
+    * Players will receive an email notification reminding them to check in. Players who do not check in by **5:45 PM will be automatically disqualified.**
 
 ## Format
 * The Swiss system will be used for this tournament, both to more easily accomodate potentially large turnout where single elimination/best of 3 could take too long, and to ensure everyone gets to play multiple games. 
     * Essentially, this means no players are eliminated after each round, players gain points by winning matches, and the player with the most points by the end of the tournament wins.
 * Ties will be broken by summing the scores of a player's opponents. In other words, players who beat more higher-scoring players will win in a tie.
-* The tournament will be managed online through smash.gg. [Live scores and matchups can be found here.](https://smash.gg/tournament/upe-spring-2020-online-pokemon-showdown-tournament/event/sword-shield-ou-pokemon-showdown-6v6-singles/standings) Each Swiss round will take roughly 30 minutes, with a 15 minute buffer in between to set up the next round.
+* The tournament will be managed online through smash.gg. [Live scores and matchups can be found here.](https://smash.gg/tournament/upe-spring-2020-online-pokemon-showdown-tournament/event/sword-shield-ou-pokemon-showdown-6v6-singles/standings) Each Swiss round will take roughly 30 minutes, with a 10 minute buffer in between to set up the next round, for a total of **40 minutes per round.**
 * **Players are responsible for showing up to their matches on time.** Matchups will be announced on the UPE Discord server and through smash.gg.
     * If a player is **more than 10 minutes late to their match,** they will **forfeit** the match, and a bye (point-wise, equivalent to a match win) will be awarded to their opponent.
 * At least one (preferably both) player(s) in each match must **report their scores on the Smash.gg tournament page** once their match has ended.
