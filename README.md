@@ -8,22 +8,21 @@ The tournament organizers (TOs) reserve the right to alter or amend these rules 
 * Participants must be part of [the Upsilon Pi Epsilon (UPE) Discord server](discord.gg/upefiu) to sign up.
 * Participants must create an account at [Pokemon Showdown.](https://play.pokemonshowdown.com/) 
     * This can be done for free, no email required, by clicking the "Choose name" button in the top right, creating a name, and then going into the top-right settings menu and clicking "Register".  
-* **There are no other requirements for players to register.**
-* Once these requirements are satisfied, players can sign up by supplying their Discord usernames and Pokemon Showdown usernames through the [tournament signup form](https://go.fiu.edu/upe-poke-tour-su).
+* Participants must have created an account at [smash.gg](https://smash.gg).
+* Once these requirements are satisfied, players can sign up at the [tournament registration page.](https://smash.gg/tournament/upe-spring-2020-online-pokemon-showdown-tournament/register)
 * The tournament will be taking place online, **Saturday, April 18th, 2020, starting at 6:00 PM sharp**. 
 
 ## Format
 * The Swiss system will be used for this tournament, both to more easily accomodate potentially large turnout where single elimination/best of 3 could take too long, and to ensure everyone gets to play multiple games. 
     * Essentially, this means no players are eliminated after each round, players gain points by winning matches, and the player with the most points by the end of the tournament wins.
 * Ties will be broken by summing the scores of a player's opponents. In other words, players who beat more higher-scoring players will win in a tie.
-* Brackets will be managed through Challonge.com. [Live scores and matchups can be found here.](INSERTLINKFORCHALLONGE) Each Swiss round will take roughly 30 minutes, with a 15 minute buffer in between to set up the next round.
-* **Players are responsible for showing up to their matches on time.** Matchups will be announced on the UPE Discord server and displayed on Challonge.
+* The tournament will be managed online through smash.gg. [Live scores and matchups can be found here.](https://smash.gg/tournament/upe-spring-2020-online-pokemon-showdown-tournament/event/sword-shield-ou-pokemon-showdown-6v6-singles/standings) Each Swiss round will take roughly 30 minutes, with a 15 minute buffer in between to set up the next round.
+* **Players are responsible for showing up to their matches on time.** Matchups will be announced on the UPE Discord server and through smash.gg.
     * If a player is **more than 10 minutes late to their match,** they will **forfeit** the match, and a bye (point-wise, equivalent to a match win) will be awarded to their opponent.
-    * It is **players' responsibilities to report late players to the TOs in the UPE Discord using the #disputes channel.**
-* At least one (preferably both) player(s) in each match must **report their scores in the UPE Discord using the #score-reporting channel** once their match has ended.
+* At least one (preferably both) player(s) in each match must **report their scores on the Smash.gg tournament page** once their match has ended.
     * Use any format that makes it clear who won and who lost, or whether there was a tie.
     * If a round has ended and both players in a match fail to report their scores by the time the next round starts, they will **both be awarded losses for the round.**
-* For more information on the Swiss system, [see this Challonge post.](https://challonge.blogspot.com/2013/01/swiss-tournaments.html)
+* For more information on the Swiss system, [see here.](https://help.smash.gg/en/articles/1465720-swiss-on-smash-gg)
 
 ## Gameplay
 * Games will be played on the [Pokemon Showdown battle simulator](https://play.pokemonshowdown.com/), in the 6v6 singles format, using the Generation 8 Sword/Shield OU metagame with [standard Smogon OU rules.](https://www.smogon.com/dex/ss/formats/ou/)
@@ -71,7 +70,7 @@ The tournament organizers (TOs) reserve the right to alter or amend these rules 
 
 ## Disputes
 * In the event of a rule violation or a late player during the match, **it is the responsibility of the players to alert a TO.**
-* To report a violation, players should alert a TO **in the #disputes channel of the UPE Discord Server** and supply the URL to their Pokemon Showdown room if their game is still in progress, or their replay link if the game has ended.
+* To report a violation, players should alert a TO **using the Smash.gg Conflicts page or the #disputes channel of the UPE Discord Server** and supply the URL to their Pokemon Showdown room if their game is still in progress, or their replay link if the game has ended.
 * Players found guilty of simple rule violations will be **given a loss for the round,** and their opponent will be **awarded a bye.**
     * For more serious rule violations, **TOs reserve the right to disqualify players entirely.**
     * Discretion between simple and serious rule violations lies solely with TOs.
