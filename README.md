@@ -80,5 +80,6 @@ The tournament organizers (TOs) reserve the right to alter or amend these rules 
 * To reiterate, players **more than 10 minutes late to their matches** will **forfeit** the match, and a bye will be awarded to their opponent.
 
 ## Prizes
-* The player with the most points **at the end of the fifth round** will be declared the winner and be awarded **any digital game of their choosing under $30.**
-    * If, after five rounds, there is no clear winner, **additional rounds will be held** until a clear winner is decided, up to a maximum of **seven rounds.**
+* The two players with the most points **at the end of the fifth round** will each be awarded **any digital game of their choosing under $30.**
+* The first-place winner will also be awarded **a special category in the UPE Discord.**
+    * If, after five rounds, there is no clear first-place winner, **additional rounds will be held** until a clear winner is decided, up to a maximum of **seven rounds.**
