@@ -19,7 +19,7 @@ Last updated: 4/17/2020 at 12:09 PM
 * The Swiss system will be used for this tournament. 
     * Essentially, this means no players are eliminated after each round, players gain points by winning matches, and the player with the most points by the end of the tournament wins.
 * The tournament will be managed online through [the tournament page at smash.gg](https://smash.gg/tournament/upe2020pkmn). **Please keep the tournament page open at all times during the tournament to check into matches and report match results.**
-* Each Swiss round will take roughly 20 minutes, with a 10 minute buffer in between to set up the next round, for a total of **30 minutes per round.**
+* Each Swiss round will take roughly 20 minutes, with a 10 minute buffer in between to set up the next round, for a total of **30 minutes per round.** Rounds are **best of 1**.
 * **Players are responsible for checking into their matches on time.** Matchups will be announced on the UPE Discord server and through the tournament site.
     * Players can check into their matches at [this page](https://smash.gg/tournament/upe2020pkmn/event/sword-shield-ou-pokemon-showdown-6v6-singles/brackets/794100/1274039) by selecting their match and checking in.
     * If a player is **more than 10 minutes late to their match,** they will **forfeit** the match, and a bye (point-wise, equivalent to a match win) will be awarded to their opponent.
